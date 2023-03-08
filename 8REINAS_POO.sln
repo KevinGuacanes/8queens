@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "8REINAS_POO", "8REINAS_POO\8REINAS_POO.csproj", "{D73D17D9-CF65-448D-AEC5-C02A82F3D8C1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Elementos de la solución", "Elementos de la solución", "{61A547F4-C3F9-40C9-A164-A9FA4D3F297F}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\..\Downloads\reina.png = ..\..\..\..\Downloads\reina.png
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D73D17D9-CF65-448D-AEC5-C02A82F3D8C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D73D17D9-CF65-448D-AEC5-C02A82F3D8C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D73D17D9-CF65-448D-AEC5-C02A82F3D8C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D73D17D9-CF65-448D-AEC5-C02A82F3D8C1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {91CA966C-CD3B-4301-8E58-CDDB7B116961}
+	EndGlobalSection
+EndGlobal

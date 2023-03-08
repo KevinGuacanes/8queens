@@ -1,0 +1,80 @@
+C:\Users\Hp\Documents\POO_VISUALC#\EXAMENFINAL_JUEGOS\8REINAS_POO\8REINAS_POO\bin\Debug\net6.0-windows\8REINAS_POO.exe
+C:\Users\Hp\Documents\POO_VISUALC#\EXAMENFINAL_JUEGOS\8REINAS_POO\8REINAS_POO\bin\Debug\net6.0-windows\8REINAS_POO.deps.json
+C:\Users\Hp\Documents\POO_VISUALC#\EXAMENFINAL_JUEGOS\8REINAS_POO\8REINAS_POO\bin\Debug\net6.0-windows\8REINAS_POO.runtimeconfig.json
+C:\Users\Hp\Documents\POO_VISUALC#\EXAMENFINAL_JUEGOS\8REINAS_POO\8REINAS_POO\bin\Debug\net6.0-windows\8REINAS_POO.dll
+C:\Users\Hp\Documents\POO_VISUALC#\EXAMENFINAL_JUEGOS\8REINAS_POO\8REINAS_POO\bin\Debug\net6.0-windows\8REINAS_POO.pdb
+C:\Users\Hp\Documents\POO_VISUALC#\EXAMENFINAL_JUEGOS\8REINAS_POO\8REINAS_POO\obj\Debug\net6.0-windows\8REINAS_POO.csproj.AssemblyReference.cache
+C:\Users\Hp\Documents\POO_VISUALC#\EXAMENFINAL_JUEGOS\8REINAS_POO\8REINAS_POO\obj\Debug\net6.0-windows\_8REINAS_POO.Form1.resources
+C:\Users\Hp\Documents\POO_VISUALC#\EXAMENFINAL_JUEGOS\8REINAS_POO\8REINAS_POO\obj\Debug\net6.0-windows\8REINAS_POO.csproj.GenerateResource.cache
+C:\Users\Hp\Documents\POO_VISUALC#\EXAMENFINAL_JUEGOS\8REINAS_POO\8REINAS_POO\obj\Debug\net6.0-windows\8REINAS_POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Documents\POO_VISUALC#\EXAMENFINAL_JUEGOS\8REINAS_POO\8REINAS_POO\obj\Debug\net6.0-windows\8REINAS_POO.AssemblyInfoInputs.cache
+C:\Users\Hp\Documents\POO_VISUALC#\EXAMENFINAL_JUEGOS\8REINAS_POO\8REINAS_POO\obj\Debug\net6.0-windows\8REINAS_POO.AssemblyInfo.cs
+C:\Users\Hp\Documents\POO_VISUALC#\EXAMENFINAL_JUEGOS\8REINAS_POO\8REINAS_POO\obj\Debug\net6.0-windows\8REINAS_POO.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Documents\POO_VISUALC#\EXAMENFINAL_JUEGOS\8REINAS_POO\8REINAS_POO\obj\Debug\net6.0-windows\8REINAS_POO.dll
+C:\Users\Hp\Documents\POO_VISUALC#\EXAMENFINAL_JUEGOS\8REINAS_POO\8REINAS_POO\obj\Debug\net6.0-windows\refint\8REINAS_POO.dll
+C:\Users\Hp\Documents\POO_VISUALC#\EXAMENFINAL_JUEGOS\8REINAS_POO\8REINAS_POO\obj\Debug\net6.0-windows\8REINAS_POO.pdb
+C:\Users\Hp\Documents\POO_VISUALC#\EXAMENFINAL_JUEGOS\8REINAS_POO\8REINAS_POO\obj\Debug\net6.0-windows\8REINAS_POO.genruntimeconfig.cache
+C:\Users\Hp\Documents\POO_VISUALC#\EXAMENFINAL_JUEGOS\8REINAS_POO\8REINAS_POO\obj\Debug\net6.0-windows\ref\8REINAS_POO.dll
+C:\Users\Hp\Documents\POO_VISUALC#\EXAMENFINAL_JUEGOS\8REINAS_POO\8REINAS_POO\obj\Debug\net6.0-windows\_8REINAS_POO.Properties.Resources.resources
+C:\Users\Hp\Documents\POO_VISUALC#\EXAMENFINAL_JUEGOS\8REINAS_POO\8REINAS_POO\obj\Debug\net6.0-windows\_8REINAS_POO.FormularioTablero.resources
+C:\Users\Hp\Documents\POO_VISUALC#\EXAMENFINAL_JUEGOS\8REINAS_POO\8REINAS_POO\obj\Debug\net6.0-windows\_8REINAS_POO.FormularioSoluciones.resources
+C:\Users\Andres\Desktop\8REINAS_POO\8REINAS_POO\obj\Debug\net6.0-windows\8REINAS_POO.csproj.AssemblyReference.cache
+C:\Users\Andres\Desktop\8REINAS_POO\8REINAS_POO\obj\Debug\net6.0-windows\_8REINAS_POO.Form1.resources
+C:\Users\Andres\Desktop\8REINAS_POO\8REINAS_POO\obj\Debug\net6.0-windows\_8REINAS_POO.FormularioSoluciones.resources
+C:\Users\Andres\Desktop\8REINAS_POO\8REINAS_POO\obj\Debug\net6.0-windows\_8REINAS_POO.FormularioTablero.resources
+C:\Users\Andres\Desktop\8REINAS_POO\8REINAS_POO\obj\Debug\net6.0-windows\_8REINAS_POO.Properties.Resources.resources
+C:\Users\Andres\Desktop\8REINAS_POO\8REINAS_POO\obj\Debug\net6.0-windows\8REINAS_POO.csproj.GenerateResource.cache
+C:\Users\Andres\Desktop\8REINAS_POO\8REINAS_POO\obj\Debug\net6.0-windows\8REINAS_POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andres\Desktop\8REINAS_POO\8REINAS_POO\obj\Debug\net6.0-windows\8REINAS_POO.AssemblyInfoInputs.cache
+C:\Users\Andres\Desktop\8REINAS_POO\8REINAS_POO\obj\Debug\net6.0-windows\8REINAS_POO.AssemblyInfo.cs
+C:\Users\Andres\Desktop\8REINAS_POO\8REINAS_POO\obj\Debug\net6.0-windows\8REINAS_POO.csproj.CoreCompileInputs.cache
+C:\Users\Andres\Desktop\8REINAS_POO\8REINAS_POO\obj\Debug\net6.0-windows\8REINAS_POO.dll
+C:\Users\Andres\Desktop\8REINAS_POO\8REINAS_POO\obj\Debug\net6.0-windows\refint\8REINAS_POO.dll
+C:\Users\Andres\Desktop\8REINAS_POO\8REINAS_POO\obj\Debug\net6.0-windows\8REINAS_POO.pdb
+C:\Users\Andres\Desktop\8REINAS_POO\8REINAS_POO\bin\Debug\net6.0-windows\8REINAS_POO.exe
+C:\Users\Andres\Desktop\8REINAS_POO\8REINAS_POO\bin\Debug\net6.0-windows\8REINAS_POO.deps.json
+C:\Users\Andres\Desktop\8REINAS_POO\8REINAS_POO\bin\Debug\net6.0-windows\8REINAS_POO.runtimeconfig.json
+C:\Users\Andres\Desktop\8REINAS_POO\8REINAS_POO\bin\Debug\net6.0-windows\8REINAS_POO.dll
+C:\Users\Andres\Desktop\8REINAS_POO\8REINAS_POO\bin\Debug\net6.0-windows\8REINAS_POO.pdb
+C:\Users\Andres\Desktop\8REINAS_POO\8REINAS_POO\obj\Debug\net6.0-windows\8REINAS_POO.genruntimeconfig.cache
+C:\Users\Andres\Desktop\8REINAS_POO\8REINAS_POO\obj\Debug\net6.0-windows\ref\8REINAS_POO.dll
+C:\Users\Andres\Desktop\ProyectosFinales-Reuniones\8REINAS_POO\8REINAS_POO\bin\Debug\net6.0-windows\8REINAS_POO.exe
+C:\Users\Andres\Desktop\ProyectosFinales-Reuniones\8REINAS_POO\8REINAS_POO\bin\Debug\net6.0-windows\8REINAS_POO.deps.json
+C:\Users\Andres\Desktop\ProyectosFinales-Reuniones\8REINAS_POO\8REINAS_POO\bin\Debug\net6.0-windows\8REINAS_POO.runtimeconfig.json
+C:\Users\Andres\Desktop\ProyectosFinales-Reuniones\8REINAS_POO\8REINAS_POO\bin\Debug\net6.0-windows\8REINAS_POO.dll
+C:\Users\Andres\Desktop\ProyectosFinales-Reuniones\8REINAS_POO\8REINAS_POO\bin\Debug\net6.0-windows\8REINAS_POO.pdb
+C:\Users\Andres\Desktop\ProyectosFinales-Reuniones\8REINAS_POO\8REINAS_POO\obj\Debug\net6.0-windows\8REINAS_POO.csproj.AssemblyReference.cache
+C:\Users\Andres\Desktop\ProyectosFinales-Reuniones\8REINAS_POO\8REINAS_POO\obj\Debug\net6.0-windows\_8REINAS_POO.Form1.resources
+C:\Users\Andres\Desktop\ProyectosFinales-Reuniones\8REINAS_POO\8REINAS_POO\obj\Debug\net6.0-windows\_8REINAS_POO.FormularioSoluciones.resources
+C:\Users\Andres\Desktop\ProyectosFinales-Reuniones\8REINAS_POO\8REINAS_POO\obj\Debug\net6.0-windows\_8REINAS_POO.FormularioTablero.resources
+C:\Users\Andres\Desktop\ProyectosFinales-Reuniones\8REINAS_POO\8REINAS_POO\obj\Debug\net6.0-windows\_8REINAS_POO.Properties.Resources.resources
+C:\Users\Andres\Desktop\ProyectosFinales-Reuniones\8REINAS_POO\8REINAS_POO\obj\Debug\net6.0-windows\8REINAS_POO.csproj.GenerateResource.cache
+C:\Users\Andres\Desktop\ProyectosFinales-Reuniones\8REINAS_POO\8REINAS_POO\obj\Debug\net6.0-windows\8REINAS_POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andres\Desktop\ProyectosFinales-Reuniones\8REINAS_POO\8REINAS_POO\obj\Debug\net6.0-windows\8REINAS_POO.AssemblyInfoInputs.cache
+C:\Users\Andres\Desktop\ProyectosFinales-Reuniones\8REINAS_POO\8REINAS_POO\obj\Debug\net6.0-windows\8REINAS_POO.AssemblyInfo.cs
+C:\Users\Andres\Desktop\ProyectosFinales-Reuniones\8REINAS_POO\8REINAS_POO\obj\Debug\net6.0-windows\8REINAS_POO.csproj.CoreCompileInputs.cache
+C:\Users\Andres\Desktop\ProyectosFinales-Reuniones\8REINAS_POO\8REINAS_POO\obj\Debug\net6.0-windows\8REINAS_POO.dll
+C:\Users\Andres\Desktop\ProyectosFinales-Reuniones\8REINAS_POO\8REINAS_POO\obj\Debug\net6.0-windows\refint\8REINAS_POO.dll
+C:\Users\Andres\Desktop\ProyectosFinales-Reuniones\8REINAS_POO\8REINAS_POO\obj\Debug\net6.0-windows\8REINAS_POO.pdb
+C:\Users\Andres\Desktop\ProyectosFinales-Reuniones\8REINAS_POO\8REINAS_POO\obj\Debug\net6.0-windows\8REINAS_POO.genruntimeconfig.cache
+C:\Users\Andres\Desktop\ProyectosFinales-Reuniones\8REINAS_POO\8REINAS_POO\obj\Debug\net6.0-windows\ref\8REINAS_POO.dll
+C:\Users\Andres\Desktop\Proyectos Finales  POO\C#\8REINAS_POO\8REINAS_POO\bin\Debug\net6.0-windows\8REINAS_POO.exe
+C:\Users\Andres\Desktop\Proyectos Finales  POO\C#\8REINAS_POO\8REINAS_POO\bin\Debug\net6.0-windows\8REINAS_POO.deps.json
+C:\Users\Andres\Desktop\Proyectos Finales  POO\C#\8REINAS_POO\8REINAS_POO\bin\Debug\net6.0-windows\8REINAS_POO.runtimeconfig.json
+C:\Users\Andres\Desktop\Proyectos Finales  POO\C#\8REINAS_POO\8REINAS_POO\bin\Debug\net6.0-windows\8REINAS_POO.dll
+C:\Users\Andres\Desktop\Proyectos Finales  POO\C#\8REINAS_POO\8REINAS_POO\bin\Debug\net6.0-windows\8REINAS_POO.pdb
+C:\Users\Andres\Desktop\Proyectos Finales  POO\C#\8REINAS_POO\8REINAS_POO\obj\Debug\net6.0-windows\8REINAS_POO.csproj.AssemblyReference.cache
+C:\Users\Andres\Desktop\Proyectos Finales  POO\C#\8REINAS_POO\8REINAS_POO\obj\Debug\net6.0-windows\_8REINAS_POO.Form1.resources
+C:\Users\Andres\Desktop\Proyectos Finales  POO\C#\8REINAS_POO\8REINAS_POO\obj\Debug\net6.0-windows\_8REINAS_POO.FormularioSoluciones.resources
+C:\Users\Andres\Desktop\Proyectos Finales  POO\C#\8REINAS_POO\8REINAS_POO\obj\Debug\net6.0-windows\_8REINAS_POO.FormularioTablero.resources
+C:\Users\Andres\Desktop\Proyectos Finales  POO\C#\8REINAS_POO\8REINAS_POO\obj\Debug\net6.0-windows\_8REINAS_POO.Properties.Resources.resources
+C:\Users\Andres\Desktop\Proyectos Finales  POO\C#\8REINAS_POO\8REINAS_POO\obj\Debug\net6.0-windows\8REINAS_POO.csproj.GenerateResource.cache
+C:\Users\Andres\Desktop\Proyectos Finales  POO\C#\8REINAS_POO\8REINAS_POO\obj\Debug\net6.0-windows\8REINAS_POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andres\Desktop\Proyectos Finales  POO\C#\8REINAS_POO\8REINAS_POO\obj\Debug\net6.0-windows\8REINAS_POO.AssemblyInfoInputs.cache
+C:\Users\Andres\Desktop\Proyectos Finales  POO\C#\8REINAS_POO\8REINAS_POO\obj\Debug\net6.0-windows\8REINAS_POO.AssemblyInfo.cs
+C:\Users\Andres\Desktop\Proyectos Finales  POO\C#\8REINAS_POO\8REINAS_POO\obj\Debug\net6.0-windows\8REINAS_POO.csproj.CoreCompileInputs.cache
+C:\Users\Andres\Desktop\Proyectos Finales  POO\C#\8REINAS_POO\8REINAS_POO\obj\Debug\net6.0-windows\8REINAS_POO.dll
+C:\Users\Andres\Desktop\Proyectos Finales  POO\C#\8REINAS_POO\8REINAS_POO\obj\Debug\net6.0-windows\refint\8REINAS_POO.dll
+C:\Users\Andres\Desktop\Proyectos Finales  POO\C#\8REINAS_POO\8REINAS_POO\obj\Debug\net6.0-windows\8REINAS_POO.pdb
+C:\Users\Andres\Desktop\Proyectos Finales  POO\C#\8REINAS_POO\8REINAS_POO\obj\Debug\net6.0-windows\8REINAS_POO.genruntimeconfig.cache
+C:\Users\Andres\Desktop\Proyectos Finales  POO\C#\8REINAS_POO\8REINAS_POO\obj\Debug\net6.0-windows\ref\8REINAS_POO.dll
